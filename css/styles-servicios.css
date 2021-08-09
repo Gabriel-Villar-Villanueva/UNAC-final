@@ -333,10 +333,10 @@ body.dark .footer{
         color: #fff;
         background-color: #0e60b24b;
     }
-    .navegacion li:last-child{
+    #servicio{
         background-color: rgba(39, 80, 155, 1);
     }
-    body.dark .navegacion li:last-child{
+    body.dark #servicio{
         background-color: #0e60b24b;
     }
     .navegacion li:not(:last-child){
